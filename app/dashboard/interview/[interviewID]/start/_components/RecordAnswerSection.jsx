@@ -35,7 +35,7 @@ function RecordAnswerSection({ activeQuestionIndex, mockInterViewQuestion, inter
   const minConfidence = 0;
   const webcamRef = useRef(null);
 
-  const API_BASE_URL = "https://ns-backend-2.onrender.com";
+  const API_BASE_URL = "https://naukri-sahayak-portal-backend.onrender.com";
 
   const {
     error,
