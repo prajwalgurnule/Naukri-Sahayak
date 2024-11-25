@@ -33,7 +33,7 @@ Our **Confidence Model** is an AI-powered feature that uses your webcam to asses
 - **Gain insights** into how confident you appear during your responses.  
 
 ---
-##🌟 Why Choose Naukri Sahayak?
+## 🌟 **Why Choose Naukri Sahayak?**
 🚀 **AI-Powered Precision**: Leverage cutting-edge AI to simulate real interview experiences.
 📈 **Continuous Improvement**: Identify your weaknesses and work on them with actionable feedback.
 🌍 **Diverse Question Bank**: Prepare for any role with questions across industries and levels of experience.
@@ -45,20 +45,20 @@ Our **Confidence Model** is an AI-powered feature that uses your webcam to asses
 ```bash
 git clone https://github.com/prajwalgurnule/Naukri-Sahayak.git
 ```
-### 📦 Install Dependencies
+### 📦 **Install Dependencies**
 Use either:
 ```bash
 npm install  
 # OR  
 yarn install
 ```
-### ▶️ Start the Server
+### ▶️ **Start the Server**
 ```bash
 npm run dev  
 # OR  
 yarn dev
 ```
-### 🌐 Access the Application
+### 🌐 **Access the Application**
 Open your browser and visit:
 http://localhost:3000
 
