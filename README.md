@@ -10,11 +10,17 @@
 ✅ **Personalized Experiences**: Customize sessions based on job roles and industries.  
 ✅ **Experience-Based Questions**: Tailored question sets depending on the user's expertise.  
 ✅ **Detailed Feedback**: Comprehensive performance reports with actionable insights.  
-✅ **Vast Question Bank**: Access diverse interview questions across various fields.  
+✅ **Vast Question Bank**: Access diverse interview questions across various fields.
+✅ **Confidence Model with Webcam**: Analyze non-verbal cues such as facial expressions, eye contact, and posture through your webcam to gauge confidence levels.
 ✅ **Performance Grading**: Get an overall grade after each session for quick evaluation.  
 ✅ **Recent Sessions**: Review your latest interviews directly from the homepage.  
 
 ---
+##🌟 Why Choose Naukri Sahayak?
+🚀 **AI-Powered Precision**: Leverage cutting-edge AI to simulate real interview experiences.
+📈 **Continuous Improvement**: Identify your weaknesses and work on them with actionable feedback.
+🌍 **Diverse Question Bank**: Prepare for any role with questions across industries and levels of experience.
+💼 **Career Growth**: Boost your confidence and enhance your chances of success in job interviews.
 
 ## 🛠️ **Getting Started**  
 
@@ -39,6 +45,8 @@ yarn dev
 Open your browser and visit:
 http://localhost:3000
 
+---
+
 ## 🛠️ **Technologies Used**
 
 | **Technology**    | **Purpose**                                      |
@@ -49,6 +57,8 @@ http://localhost:3000
 | 🛢️ **PostgreSQL**   | Robust, scalable database solution.              |
 | ☁️ **Neon Serverless** | Serverless deployment for PostgreSQL.         |
 | 🗃️ **Drizzle ORM**  | Simplified database interaction.                |
+
+---
 
 ## 🎯 **Usage**
 
