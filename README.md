@@ -3,10 +3,9 @@
 ## 🚀 **Description**  
 
 **Naukri Sahayak** is an advanced, interactive platform that empowers job seekers to refine their interview skills through **AI-powered mock interviews**. With tools like **Next.js**, **Tailwind CSS**, **Gemini API**, and **PostgreSQL**, this project aims to boost users' confidence and help them secure their dream jobs!  
-
 Whether you’re a fresh graduate or an experienced professional, this platform helps you sharpen your skills, build confidence, and improve your chances of landing your dream job.  
-
 At the core of **Naukri Sahayak** is an intelligent system powered by the **Gemini API**, which generates dynamic and role-specific interview questions based on your profile, experience, and desired job role. Unlike traditional mock interviews, which can feel artificial or limited in scope, **Naukri Sahayak** offers an interactive, personalized experience where each session is tailored to your strengths, weaknesses, and progress.
+
 ---
 
 ## ✨ **Features**  
